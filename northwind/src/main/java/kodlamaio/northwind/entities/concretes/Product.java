@@ -20,6 +20,6 @@ public class Product {
 		this.unitPrice = unitPrice;
 		this.unitsInStock = unitsInStock;
 		this.quantityPerUnit = quantityPerUnit;
-	}
+	}//yapılandırıcı parametreli ve global degişkene eşitlenir
 
 }
